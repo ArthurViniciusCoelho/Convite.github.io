@@ -3,7 +3,7 @@ body {
     align-items: center;
     justify-content: center;
     height:150vh;
-    background-color: rgba(168, 167, 167, 0.6);
+    background-color: rgba(0,0,0);
 }
   /*Create the card container*/
 .birthdayCard {
